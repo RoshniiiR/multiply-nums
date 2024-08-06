@@ -1,0 +1,23 @@
+{
+  "name": "multiply-nums",
+  "version": "1.0.0",
+  "description": "npm package to multiply numbers",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoshniiiR/multiply-nums.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Roshni Ratnani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RoshniiiR/multiply-nums/issues"
+  },
+  "homepage": "https://github.com/RoshniiiR/multiply-nums#readme"
+}
